@@ -1,0 +1,295 @@
+GoldGram — Лицензионное соглашение с конечным пользователем
+GoldGram — End User License Agreement
+
+Copyright (c) 2026 GoldGram. Все права защищены. All rights reserved.
+Редакция / Version: 1.0 от / of 16.11.2026
+
+==============================================================================
+[RU]
+==============================================================================
+
+1. ТЕРМИНЫ
+
+1.1. «Правообладатель», «Оператор» — владелец сервиса GoldGram (https://goldgram.su).
+1.2. «Приложение» — программы GoldGram для Android и iOS в любой версии: файлы
+     APK/IPA, их компоненты, программный код (в том числе исполняемый и
+     промежуточный), ресурсы, интерфейс, дизайн, тексты, звуки, изображения,
+     а также обновления и служебные файлы обновлений.
+1.3. «Сервис» — мессенджер, социальная сеть и сопутствующие функции GoldGram,
+     к которым Приложение даёт доступ.
+1.4. «Пользователь», «вы» — лицо, которое скачивает, устанавливает или
+     использует Приложение.
+1.5. «Официальные источники» — сайт https://goldgram.su, релизы этого
+     репозитория и магазины приложений, указанные на сайте.
+
+2. ПРИНЯТИЕ УСЛОВИЙ
+
+2.1. Скачивая, устанавливая или используя Приложение, вы принимаете это
+     соглашение. Не согласны — не устанавливайте Приложение и удалите его.
+2.2. Использование Сервиса через Приложение также регулируется
+     Пользовательским соглашением, Правилами сообщества, Политикой
+     конфиденциальности и другими документами на странице
+     https://goldgram.su/legal. При расхождении в вопросах работы Сервиса
+     действуют документы на сайте.
+
+3. ЛИЦЕНЗИЯ
+
+3.1. Правообладатель предоставляет вам бесплатную, простую (неисключительную),
+     непередаваемую, отзывную лицензию на установку и использование
+     Приложения на принадлежащих вам устройствах исключительно для личного
+     некоммерческого использования Сервиса.
+3.2. Лицензия действует на территории всего мира в течение срока действия
+     исключительного права, если не прекращена раньше по разделу 9.
+3.3. Вам не передаются исключительные права на Приложение, его код, дизайн,
+     название «GoldGram», логотипы и товарные знаки. Всё, что прямо не
+     разрешено этим соглашением, запрещено.
+3.4. Этот репозиторий распространяет только готовые сборки Приложения.
+     Исходный код не публикуется и не предоставляется.
+
+4. ОГРАНИЧЕНИЯ
+
+Без предварительного письменного разрешения Правообладателя запрещается:
+
+4.1. Декомпилировать, дизассемблировать, деобфусцировать, исследовать работу
+     Приложения с целью восстановления его исходного кода, алгоритмов,
+     протоколов, ключей и форматов данных, а также поручать это третьим
+     лицам, — кроме случаев и в пределах, прямо разрешённых законом, который
+     нельзя изменить договором.
+4.2. Изменять, переводить, адаптировать Приложение, создавать производные
+     работы, моды, патчи, «взломанные», «премиум» и иные неофициальные
+     версии и клиенты GoldGram.
+4.3. Перепаковывать и переподписывать Приложение, распространять его копии
+     или изменённые сборки, выкладывать файлы Приложения на других ресурсах,
+     продавать, сдавать в аренду, сублицензировать или иначе передавать
+     Приложение третьим лицам. Разрешается делиться ссылкой на Официальные
+     источники.
+4.4. Взламывать, обходить, отключать или ослаблять средства защиты
+     Приложения и Сервиса: шифрование, цифровую подпись, обфускацию, проверку
+     целостности и обновлений, код-пароль, ограничения функций и платного
+     доступа, лимиты и антиспам-механизмы.
+4.5. Вмешиваться в работу Приложения и серверов: внедрять код, перехватывать,
+     изменять или подделывать сетевые запросы, получать доступ к чужим
+     аккаунтам и данным, создавать чрезмерную нагрузку, автоматизировать
+     действия ботами, скриптами и эмуляторами.
+4.6. Использовать Приложение для нарушения закона, прав других людей и
+     документов Сервиса.
+4.7. Удалять или изменять сведения о правообладателе, лицензиях и товарных
+     знаках в Приложении.
+
+5. УЯЗВИМОСТИ
+
+5.1. Искать и использовать уязвимости во вред Сервису или пользователям
+     запрещено.
+5.2. Если вы случайно нашли уязвимость, сообщите о ней через поддержку
+     Сервиса, не используя её, не получая доступ к чужим данным и не раскрывая
+     сведения третьим лицам до её устранения. Добросовестное сообщение не
+     считается нарушением раздела 4.
+
+6. ОФИЦИАЛЬНЫЕ СБОРКИ И ОБНОВЛЕНИЯ
+
+6.1. Устанавливайте Приложение только из Официальных источников. Сборки из
+     других мест могут быть изменены злоумышленниками и похищать переписку,
+     пароли, платёжные данные и ключи шифрования. Правообладатель не отвечает
+     за последствия установки неофициальных сборок.
+6.2. Приложение проверяет подлинность обновлений (цифровая подпись и
+     контрольная сумма) и может предлагать или требовать обновление. Старые
+     версии могут перестать работать с Сервисом.
+6.3. Правообладатель вправе в любой момент изменять Приложение, добавлять и
+     убирать функции, прекращать поддержку платформ и версий.
+
+7. ДАННЫЕ
+
+7.1. Обработка персональных данных при использовании Приложения ведётся по
+     Политике конфиденциальности (https://goldgram.su/legal/privacy).
+7.2. Приложение хранит данные входа и код-пароль в защищённом хранилище
+     устройства и запрашивает разрешения (камера, микрофон, геопозиция,
+     уведомления) только для соответствующих функций.
+
+8. ГАРАНТИИ И ОТВЕТСТВЕННОСТЬ
+
+8.1. Приложение предоставляется «как есть» и «как доступно», без гарантий
+     любого рода, явных или подразумеваемых, в том числе гарантий
+     пригодности для определённой цели, бесперебойной и безошибочной работы.
+8.2. В максимальной степени, допустимой законом, Правообладатель не несёт
+     ответственности за прямой и косвенный ущерб, упущенную выгоду, потерю
+     данных и иные последствия использования или невозможности использования
+     Приложения.
+8.3. Ничто в этом соглашении не ограничивает права потребителя, которые
+     нельзя ограничить договором по закону страны его проживания.
+
+9. ПРЕКРАЩЕНИЕ
+
+9.1. Лицензия прекращается автоматически при нарушении раздела 4 или
+     документов Сервиса, а также при удалении аккаунта.
+9.2. При нарушении Правообладатель вправе заблокировать аккаунты и доступ к
+     Сервису, удалить контент и требовать возмещения убытков и иных мер
+     защиты, предусмотренных законом.
+9.3. После прекращения лицензии вы обязаны прекратить использование
+     Приложения и удалить его копии.
+
+10. СТОРОННИЕ КОМПОНЕНТЫ
+
+10.1. Сторонние компоненты в составе Приложения распространяются на условиях
+      своих лицензий; это соглашение их не ограничивает.
+10.2. Приложение использует libmpv и FFmpeg по лицензии GNU LGPL версии 3 или
+      новее. Эти библиотеки можно заменить; их исходный код —
+      https://github.com/ales-drnz/libmpv-scripts. Ограничения раздела 4 не
+      распространяются на действия, которые LGPL разрешает в отношении этих
+      библиотек.
+10.3. Полный список лицензий — в Приложении: Настройки → Лицензии.
+10.4. Android является товарным знаком Google LLC; iOS — товарный знак
+      Cisco, используемый Apple Inc. по лицензии.
+
+11. ПРОЧЕЕ
+
+11.1. Правообладатель вправе изменять это соглашение. Новая редакция
+      публикуется в этом репозитории и действует с момента публикации.
+      Продолжая пользоваться Приложением, вы принимаете новую редакцию.
+11.2. Если какое-либо положение признано недействительным, остальные
+      сохраняют силу.
+11.3. Применимое право и порядок споров — как в Пользовательском соглашении
+      Сервиса (https://goldgram.su/legal/terms).
+11.4. Соглашение составлено на русском и английском языках. При расхождении
+      действует русская версия.
+11.5. Контакты — через поддержку в Сервисе и на https://goldgram.su.
+
+==============================================================================
+[EN]
+==============================================================================
+
+1. DEFINITIONS
+
+1.1. "Rights Holder", "Operator" means the owner of the GoldGram service
+     (https://goldgram.su).
+1.2. "App" means the GoldGram programs for Android and iOS in any version:
+     APK/IPA files, their components, program code (including executable and
+     intermediate code), resources, interface, design, texts, sounds, images,
+     as well as updates and update metadata files.
+1.3. "Service" means the GoldGram messenger, social network and related
+     features accessed through the App.
+1.4. "User", "you" means any person who downloads, installs or uses the App.
+1.5. "Official Sources" means the website https://goldgram.su, the releases
+     of this repository and the app stores listed on the website.
+
+2. ACCEPTANCE
+
+2.1. By downloading, installing or using the App you accept this agreement.
+     If you do not agree, do not install the App and delete it.
+2.2. Use of the Service through the App is also governed by the Terms of
+     Service, Community Rules, Privacy Policy and other documents at
+     https://goldgram.su/legal. In matters of the Service's operation, the
+     documents on the website prevail.
+
+3. LICENSE
+
+3.1. The Rights Holder grants you a free, simple (non-exclusive),
+     non-transferable, revocable license to install and use the App on
+     devices you own, solely for personal, non-commercial use of the Service.
+3.2. The license is worldwide and lasts for the term of the exclusive right
+     unless terminated earlier under Section 9.
+3.3. No exclusive rights to the App, its code, design, the "GoldGram" name,
+     logos or trademarks are transferred to you. Anything not expressly
+     permitted by this agreement is prohibited.
+3.4. This repository distributes compiled builds of the App only. Source
+     code is not published or provided.
+
+4. RESTRICTIONS
+
+Without the Rights Holder's prior written permission, you may not:
+
+4.1. Decompile, disassemble, deobfuscate or analyze the App in order to
+     reconstruct its source code, algorithms, protocols, keys or data
+     formats, or have third parties do so, except where and to the extent
+     expressly permitted by law that cannot be waived by contract.
+4.2. Modify, translate or adapt the App, or create derivative works, mods,
+     patches, "cracked", "premium" or other unofficial versions and clients
+     of GoldGram.
+4.3. Repackage or re-sign the App, distribute copies or modified builds,
+     publish App files elsewhere, or sell, rent, sublicense or otherwise
+     transfer the App to third parties. Sharing links to Official Sources is
+     permitted.
+4.4. Hack, bypass, disable or weaken the protection of the App and the
+     Service: encryption, digital signatures, obfuscation, integrity and
+     update verification, passcode, feature and paid-access restrictions,
+     rate limits and anti-spam mechanisms.
+4.5. Interfere with the operation of the App and servers: inject code,
+     intercept, alter or forge network requests, access other people's
+     accounts or data, create excessive load, or automate actions with bots,
+     scripts or emulators.
+4.6. Use the App to violate the law, the rights of others or the Service's
+     documents.
+4.7. Remove or alter copyright, license or trademark notices in the App.
+
+5. VULNERABILITIES
+
+5.1. Searching for or exploiting vulnerabilities to the detriment of the
+     Service or its users is prohibited.
+5.2. If you come across a vulnerability, report it through the Service's
+     support without exploiting it, accessing other people's data or
+     disclosing it to third parties until it is fixed. A good-faith report is
+     not a violation of Section 4.
+
+6. OFFICIAL BUILDS AND UPDATES
+
+6.1. Install the App only from Official Sources. Builds from other places may
+     be altered by attackers to steal messages, passwords, payment data and
+     encryption keys. The Rights Holder is not responsible for the
+     consequences of installing unofficial builds.
+6.2. The App verifies the authenticity of updates (digital signature and
+     checksum) and may offer or require an update. Older versions may stop
+     working with the Service.
+6.3. The Rights Holder may change the App at any time, add or remove
+     features, and end support for platforms and versions.
+
+7. DATA
+
+7.1. Personal data processed when using the App is handled under the Privacy
+     Policy (https://goldgram.su/legal/privacy).
+7.2. The App keeps sign-in data and the passcode in the device's secure
+     storage and requests permissions (camera, microphone, location,
+     notifications) only for the corresponding features.
+
+8. WARRANTY AND LIABILITY
+
+8.1. THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+     KIND, EXPRESS OR IMPLIED, INCLUDING FITNESS FOR A PARTICULAR PURPOSE AND
+     UNINTERRUPTED OR ERROR-FREE OPERATION.
+8.2. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE RIGHTS HOLDER SHALL NOT BE
+     LIABLE FOR ANY DIRECT OR INDIRECT DAMAGES, LOST PROFITS, LOSS OF DATA OR
+     OTHER CONSEQUENCES OF USING OR BEING UNABLE TO USE THE APP.
+8.3. Nothing in this agreement limits consumer rights that cannot be limited
+     by contract under the law of the consumer's country of residence.
+
+9. TERMINATION
+
+9.1. The license terminates automatically upon violation of Section 4 or the
+     Service's documents, or upon deletion of the account.
+9.2. In case of violation, the Rights Holder may block accounts and access to
+     the Service, remove content, and seek damages and other remedies
+     provided by law.
+9.3. Upon termination you must stop using the App and delete all copies.
+
+10. THIRD-PARTY COMPONENTS
+
+10.1. Third-party components included in the App are licensed under their
+      own terms and are not restricted by this agreement.
+10.2. The App uses libmpv and FFmpeg under the GNU LGPL version 3 or later.
+      These libraries may be replaced; their source code is available at
+      https://github.com/ales-drnz/libmpv-scripts. The restrictions of
+      Section 4 do not apply to actions the LGPL permits for these libraries.
+10.3. The full list of licenses is in the App: Settings → Licenses.
+10.4. Android is a trademark of Google LLC; iOS is a trademark of Cisco used
+      by Apple Inc. under license.
+
+11. MISCELLANEOUS
+
+11.1. The Rights Holder may amend this agreement. A new version is published
+      in this repository and takes effect upon publication. By continuing to
+      use the App you accept the new version.
+11.2. If any provision is held invalid, the remaining provisions remain in
+      force.
+11.3. Governing law and dispute resolution are as set out in the Service's
+      Terms of Service (https://goldgram.su/legal/terms).
+11.4. This agreement is made in Russian and English. In case of discrepancy,
+      the Russian version prevails.
+11.5. Contact: via support in the Service and at https://goldgram.su.
