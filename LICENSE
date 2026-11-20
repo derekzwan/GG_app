@@ -1,8 +1,8 @@
 GoldGram — Лицензионное соглашение с конечным пользователем
 GoldGram — End User License Agreement
 
-Copyright (c) 2026 GoldGram. Все права защищены. All rights reserved.
-Редакция / Version: 1.0 от / of 16.11.2026
+Copyright (c) 2026 TorraNox. Все права защищены. All rights reserved.
+Редакция / Version: 1.2 от / of 20.11.2026
 
 ==============================================================================
 [RU]
@@ -10,7 +10,8 @@ Copyright (c) 2026 GoldGram. Все права защищены. All rights rese
 
 1. ТЕРМИНЫ
 
-1.1. «Правообладатель», «Оператор» — владелец сервиса GoldGram (https://goldgram.su).
+1.1. «Правообладатель», «Оператор», «Разработчик» — TorraNox, владелец сервиса
+     GoldGram (https://goldgram.pro).
 1.2. «Приложение» — программы GoldGram для Android и iOS в любой версии: файлы
      APK/IPA, их компоненты, программный код (в том числе исполняемый и
      промежуточный), ресурсы, интерфейс, дизайн, тексты, звуки, изображения,
@@ -19,8 +20,14 @@ Copyright (c) 2026 GoldGram. Все права защищены. All rights rese
      к которым Приложение даёт доступ.
 1.4. «Пользователь», «вы» — лицо, которое скачивает, устанавливает или
      использует Приложение.
-1.5. «Официальные источники» — сайт https://goldgram.su, релизы этого
-     репозитория и магазины приложений, указанные на сайте.
+1.5. «Официальные источники» — сайт https://goldgram.pro (ранее —
+     https://goldgram.su; при смене адреса новый указывается в релизах этого
+     репозитория), релизы этого репозитория, Apple App Store и Google Play
+     (страницы Приложения от имени Разработчика), а также другие магазины,
+     указанные на сайте.
+1.6. «Магазин» — Apple App Store или Google Play, через который получено
+     Приложение; «Apple» — Apple Inc. и её дочерние компании; «Google» — Google
+     LLC и её аффилированные лица.
 
 2. ПРИНЯТИЕ УСЛОВИЙ
 
@@ -29,7 +36,7 @@ Copyright (c) 2026 GoldGram. Все права защищены. All rights rese
 2.2. Использование Сервиса через Приложение также регулируется
      Пользовательским соглашением, Правилами сообщества, Политикой
      конфиденциальности и другими документами на странице
-     https://goldgram.su/legal. При расхождении в вопросах работы Сервиса
+     https://goldgram.pro/legal. При расхождении в вопросах работы Сервиса
      действуют документы на сайте.
 
 3. ЛИЦЕНЗИЯ
@@ -100,7 +107,7 @@ Copyright (c) 2026 GoldGram. Все права защищены. All rights rese
 7. ДАННЫЕ
 
 7.1. Обработка персональных данных при использовании Приложения ведётся по
-     Политике конфиденциальности (https://goldgram.su/legal/privacy).
+     Политике конфиденциальности (https://goldgram.pro/legal/privacy).
 7.2. Приложение хранит данные входа и код-пароль в защищённом хранилище
      устройства и запрашивает разрешения (камера, микрофон, геопозиция,
      уведомления) только для соответствующих функций.
@@ -136,8 +143,11 @@ Copyright (c) 2026 GoldGram. Все права защищены. All rights rese
       https://github.com/ales-drnz/libmpv-scripts. Ограничения раздела 4 не
       распространяются на действия, которые LGPL разрешает в отношении этих
       библиотек.
-10.3. Полный список лицензий — в Приложении: Настройки → Лицензии.
-10.4. Android является товарным знаком Google LLC; iOS — товарный знак
+10.3. Шрифт Manrope (Copyright 2018 The Manrope Project Authors) встроен в
+      Приложение по лицензии SIL Open Font License 1.1.
+10.4. Полный список лицензий — в Приложении: Настройки → Лицензии.
+10.5. Android и Google Play являются товарными знаками Google LLC; Apple,
+      iPhone и App Store — товарные знаки Apple Inc.; iOS — товарный знак
       Cisco, используемый Apple Inc. по лицензии.
 
 11. ПРОЧЕЕ
@@ -148,10 +158,106 @@ Copyright (c) 2026 GoldGram. Все права защищены. All rights rese
 11.2. Если какое-либо положение признано недействительным, остальные
       сохраняют силу.
 11.3. Применимое право и порядок споров — как в Пользовательском соглашении
-      Сервиса (https://goldgram.su/legal/terms).
+      Сервиса (https://goldgram.pro/legal/terms).
 11.4. Соглашение составлено на русском и английском языках. При расхождении
       действует русская версия.
-11.5. Контакты — через поддержку в Сервисе и на https://goldgram.su.
+11.5. Контакты — через поддержку в Сервисе и на https://goldgram.pro.
+
+12. ПРИЛОЖЕНИЕ ИЗ МАГАЗИНОВ: ОБЩИЕ ПОЛОЖЕНИЯ
+
+12.1. Если Приложение получено через Магазин, к его скачиванию, установке,
+      обновлениям и покупкам применяются также правила этого Магазина. При
+      противоречии в отношении Магазина действуют его правила, в остальном —
+      это соглашение.
+12.2. Сборки из Магазина подписаны Магазином и защищены его средствами
+      (цифровая подпись, проверка целостности, защита от копирования).
+      Обходить, отключать или подделывать эти средства, переносить сборку
+      из Магазина на другие устройства в обход правил Магазина, а также
+      распространять её копии запрещено (раздел 4).
+12.3. Сборка из Магазина обновляется только через этот Магазин. Сборки с
+      сайта и из этого репозитория обновляются через Официальные источники и
+      проверяются по цифровой подписи и контрольной сумме.
+12.4. Платные функции и цифровые товары внутри Приложения, если они
+      продаются через Магазин, оплачиваются средствами Магазина; возвраты —
+      по правилам Магазина. Остальные платежи — по Правилам оплаты Сервиса
+      (https://goldgram.pro/legal/payments).
+12.5. Данные об установке и покупках, которые Магазин передаёт Разработчику,
+      обрабатываются по Политике конфиденциальности Сервиса; данные, которые
+      собирает сам Магазин, — по политике Магазина.
+
+13. APPLE APP STORE
+
+Если Приложение получено через Apple App Store, дополнительно действует
+следующее (при противоречии этот раздел имеет приоритет):
+
+13.1. Стороны. Это соглашение заключено только между вами и Разработчиком,
+      а не с Apple. Ответственность за Приложение и его содержимое несёт
+      Разработчик, а не Apple.
+13.2. Лицензия. Лицензия по разделу 3 ограничена правом использовать
+      Приложение на любых продуктах Apple под управлением iOS или iPadOS,
+      которыми вы владеете или которые контролируете, в пределах Правил
+      использования (Usage Rules) из Условий использования мультимедийных
+      сервисов Apple; Приложением также могут пользоваться другие аккаунты,
+      связанные с вами через «Семейный доступ» или покупки по корпоративной
+      программе, если это допускает App Store.
+13.3. Поддержка. За обслуживание и поддержку Приложения отвечает только
+      Разработчик в объёме этого соглашения и применимого права. Apple не
+      обязана оказывать какое-либо обслуживание и поддержку Приложения.
+13.4. Гарантии. Разработчик отвечает за гарантии на Приложение, явные или
+      предусмотренные законом, в той мере, в какой они не исключены
+      разделом 8. Если Приложение не соответствует применимой гарантии, вы
+      можете уведомить Apple, и Apple вернёт вам цену покупки Приложения
+      (если она была). В максимальной степени, допустимой законом, у Apple нет
+      иных гарантийных обязательств в отношении Приложения; любые иные
+      претензии, убытки и расходы из-за несоответствия гарантии — зона
+      ответственности Разработчика.
+13.5. Претензии к продукту. Претензии, связанные с Приложением или его
+      использованием, рассматривает Разработчик, а не Apple, в том числе:
+      (i) претензии об ответственности за продукт; (ii) претензии о
+      несоответствии Приложения применимым правовым или регуляторным
+      требованиям; (iii) претензии из законодательства о защите прав
+      потребителей, о неприкосновенности частной жизни и аналогичного
+      законодательства, включая использование технологий HealthKit и HomeKit,
+      если они применяются. Это соглашение не ограничивает ответственность
+      Разработчика перед вами сверх того, что допускает закон.
+13.6. Интеллектуальная собственность. Если третье лицо заявит, что
+      Приложение или владение и пользование им нарушают его права
+      интеллектуальной собственности, расследованием, защитой, урегулированием
+      и прекращением такой претензии занимается Разработчик, а не Apple.
+13.7. Соблюдение закона. Вы подтверждаете, что (i) не находитесь в стране,
+      в отношении которой правительство США ввело эмбарго или которую оно
+      признало «страной, поддерживающей терроризм», и (ii) не включены в
+      какой-либо список лиц, в отношении которых правительство США ввело
+      запреты или ограничения.
+13.8. Разработчик. Вопросы, жалобы и претензии по Приложению направляйте
+      Разработчику: TorraNox, через поддержку в Приложении или контакты на
+      https://goldgram.pro/legal (раздел «Контакты»).
+13.9. Условия третьих лиц. Пользуясь Приложением, вы соблюдаете применимые
+      условия третьих лиц, например договор с оператором связи или
+      провайдером интернета.
+13.10. Третья сторона-выгодоприобретатель. Apple и её дочерние компании
+      являются третьими сторонами-выгодоприобретателями этого соглашения.
+      Приняв его, вы предоставляете Apple право (и считается, что Apple его
+      приняла) требовать от вас его исполнения как третья сторона-
+      выгодоприобретатель.
+
+14. GOOGLE PLAY
+
+Если Приложение получено через Google Play, дополнительно действует
+следующее:
+
+14.1. Это соглашение заключено между вами и Разработчиком. Google не является
+      его стороной и не несёт ответственности за Приложение, его содержимое,
+      обслуживание и поддержку.
+14.2. Загрузка, установка и обновления из Google Play регулируются Условиями
+      использования Google Play и правилами Google Play. Возвраты за покупки
+      через Google Play — по правилам возврата Google Play.
+14.3. Покупки цифровых товаров и функций внутри Приложения, распространяемого
+      через Google Play, проводятся через Google Play Billing, если правила
+      Google Play не допускают иного способа оплаты.
+14.4. Сборка из Google Play подписывается ключом Google Play App Signing и
+      обновляется только через Google Play. Её копии, извлечённые из
+      устройства или Магазина, распространять запрещено.
 
 ==============================================================================
 [EN]
@@ -159,8 +265,8 @@ Copyright (c) 2026 GoldGram. Все права защищены. All rights rese
 
 1. DEFINITIONS
 
-1.1. "Rights Holder", "Operator" means the owner of the GoldGram service
-     (https://goldgram.su).
+1.1. "Rights Holder", "Operator", "Developer" means TorraNox, the owner of the
+     GoldGram service (https://goldgram.pro).
 1.2. "App" means the GoldGram programs for Android and iOS in any version:
      APK/IPA files, their components, program code (including executable and
      intermediate code), resources, interface, design, texts, sounds, images,
@@ -168,8 +274,14 @@ Copyright (c) 2026 GoldGram. Все права защищены. All rights rese
 1.3. "Service" means the GoldGram messenger, social network and related
      features accessed through the App.
 1.4. "User", "you" means any person who downloads, installs or uses the App.
-1.5. "Official Sources" means the website https://goldgram.su, the releases
-     of this repository and the app stores listed on the website.
+1.5. "Official Sources" means the website https://goldgram.pro (formerly
+     https://goldgram.su; if the address changes, the new one is announced in
+     the releases of this repository), the releases of this repository, the
+     Apple App Store and Google Play (the App's pages published by the
+     Developer), and other stores listed on the website.
+1.6. "Store" means the Apple App Store or Google Play through which the App was
+     obtained; "Apple" means Apple Inc. and its subsidiaries; "Google" means
+     Google LLC and its affiliates.
 
 2. ACCEPTANCE
 
@@ -177,7 +289,7 @@ Copyright (c) 2026 GoldGram. Все права защищены. All rights rese
      If you do not agree, do not install the App and delete it.
 2.2. Use of the Service through the App is also governed by the Terms of
      Service, Community Rules, Privacy Policy and other documents at
-     https://goldgram.su/legal. In matters of the Service's operation, the
+     https://goldgram.pro/legal. In matters of the Service's operation, the
      documents on the website prevail.
 
 3. LICENSE
@@ -244,7 +356,7 @@ Without the Rights Holder's prior written permission, you may not:
 7. DATA
 
 7.1. Personal data processed when using the App is handled under the Privacy
-     Policy (https://goldgram.su/legal/privacy).
+     Policy (https://goldgram.pro/legal/privacy).
 7.2. The App keeps sign-in data and the passcode in the device's secure
      storage and requests permissions (camera, microphone, location,
      notifications) only for the corresponding features.
@@ -277,8 +389,11 @@ Without the Rights Holder's prior written permission, you may not:
       These libraries may be replaced; their source code is available at
       https://github.com/ales-drnz/libmpv-scripts. The restrictions of
       Section 4 do not apply to actions the LGPL permits for these libraries.
-10.3. The full list of licenses is in the App: Settings → Licenses.
-10.4. Android is a trademark of Google LLC; iOS is a trademark of Cisco used
+10.3. The Manrope font (Copyright 2018 The Manrope Project Authors) is
+      embedded in the App under the SIL Open Font License 1.1.
+10.4. The full list of licenses is in the App: Settings → Licenses.
+10.5. Android and Google Play are trademarks of Google LLC; Apple, iPhone and
+      App Store are trademarks of Apple Inc.; iOS is a trademark of Cisco used
       by Apple Inc. under license.
 
 11. MISCELLANEOUS
@@ -289,7 +404,103 @@ Without the Rights Holder's prior written permission, you may not:
 11.2. If any provision is held invalid, the remaining provisions remain in
       force.
 11.3. Governing law and dispute resolution are as set out in the Service's
-      Terms of Service (https://goldgram.su/legal/terms).
+      Terms of Service (https://goldgram.pro/legal/terms).
 11.4. This agreement is made in Russian and English. In case of discrepancy,
       the Russian version prevails.
-11.5. Contact: via support in the Service and at https://goldgram.su.
+11.5. Contact: via support in the Service and at https://goldgram.pro.
+
+12. STORE DISTRIBUTION: GENERAL
+
+12.1. If the App is obtained through a Store, the rules of that Store also
+      apply to downloading, installing, updating and purchasing. In case of
+      conflict, the Store's rules prevail as regards the Store; otherwise this
+      agreement applies.
+12.2. Store builds are signed by the Store and protected by its means
+      (digital signature, integrity checks, copy protection). Bypassing,
+      disabling or forging these means, moving a Store build to other devices
+      in breach of the Store's rules, and distributing copies of it are
+      prohibited (Section 4).
+12.3. A Store build is updated only through that Store. Builds from the
+      website and this repository are updated through Official Sources and
+      verified by digital signature and checksum.
+12.4. Paid features and digital goods inside the App, if sold through a Store,
+      are paid for using the Store's payment system; refunds follow the Store's
+      rules. Other payments follow the Service's Payment Rules
+      (https://goldgram.pro/legal/payments).
+12.5. Installation and purchase data the Store provides to the Developer is
+      processed under the Service's Privacy Policy; data collected by the Store
+      itself is governed by the Store's policy.
+
+13. APPLE APP STORE
+
+If the App is obtained through the Apple App Store, the following also applies
+(in case of conflict, this section prevails):
+
+13.1. Parties. This agreement is concluded between you and the Developer only,
+      and not with Apple. The Developer, not Apple, is solely responsible for
+      the App and its content.
+13.2. License. The license under Section 3 is limited to using the App on any
+      Apple-branded products running iOS or iPadOS that you own or control, as
+      permitted by the Usage Rules set forth in the Apple Media Services Terms
+      and Conditions, except that the App may also be accessed and used by
+      other accounts associated with you via Family Sharing or volume
+      purchasing, where the App Store permits it.
+13.3. Maintenance and support. The Developer is solely responsible for
+      providing maintenance and support for the App as specified in this
+      agreement and under applicable law. Apple has no obligation whatsoever
+      to furnish any maintenance and support services for the App.
+13.4. Warranty. The Developer is solely responsible for any product
+      warranties, whether express or implied by law, to the extent not
+      effectively disclaimed in Section 8. In the event of any failure of the
+      App to conform to any applicable warranty, you may notify Apple, and
+      Apple will refund the purchase price (if any) for the App to you. To the
+      maximum extent permitted by law, Apple has no other warranty obligation
+      with respect to the App, and any other claims, losses, liabilities,
+      damages, costs or expenses attributable to any failure to conform to any
+      warranty are the Developer's sole responsibility.
+13.5. Product claims. The Developer, not Apple, is responsible for addressing
+      any claims by you or any third party relating to the App or your
+      possession and/or use of it, including: (i) product liability claims;
+      (ii) any claim that the App fails to conform to any applicable legal or
+      regulatory requirement; and (iii) claims arising under consumer
+      protection, privacy or similar legislation, including in connection with
+      the App's use of the HealthKit and HomeKit frameworks, if any. This
+      agreement does not limit the Developer's liability to you beyond what is
+      permitted by applicable law.
+13.6. Intellectual property. In the event of any third-party claim that the
+      App or your possession and use of it infringes that third party's
+      intellectual property rights, the Developer, not Apple, will be solely
+      responsible for the investigation, defense, settlement and discharge of
+      any such claim.
+13.7. Legal compliance. You represent and warrant that (i) you are not located
+      in a country that is subject to a U.S. Government embargo or that has
+      been designated by the U.S. Government as a "terrorist supporting"
+      country, and (ii) you are not listed on any U.S. Government list of
+      prohibited or restricted parties.
+13.8. Developer. Direct any questions, complaints or claims regarding the App
+      to the Developer: TorraNox, via support in the App or the contacts at
+      https://goldgram.pro/legal ("Contacts").
+13.9. Third-party terms. When using the App you must comply with applicable
+      third-party terms of agreement, such as your wireless data service or
+      internet provider agreement.
+13.10. Third-party beneficiary. Apple and Apple's subsidiaries are third-party
+      beneficiaries of this agreement, and upon your acceptance of it, Apple
+      will have the right (and will be deemed to have accepted the right) to
+      enforce this agreement against you as a third-party beneficiary.
+
+14. GOOGLE PLAY
+
+If the App is obtained through Google Play, the following also applies:
+
+14.1. This agreement is concluded between you and the Developer. Google is not
+      a party to it and is not responsible for the App, its content,
+      maintenance or support.
+14.2. Downloading, installing and updating from Google Play are governed by
+      the Google Play Terms of Service and Google Play policies. Refunds for
+      Google Play purchases follow the Google Play refund policies.
+14.3. Purchases of digital goods and features inside the App distributed
+      through Google Play are made via Google Play Billing, unless Google
+      Play's policies allow another payment method.
+14.4. The Google Play build is signed with Google Play App Signing and is
+      updated only through Google Play. Distributing copies of it extracted
+      from a device or the Store is prohibited.

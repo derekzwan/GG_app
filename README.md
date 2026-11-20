@@ -8,7 +8,7 @@
 
 [![Скачать APK](https://img.shields.io/badge/⬇️_Скачать-Android_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](../../releases/latest/download/GoldGram.apk)
 [![Все версии](https://img.shields.io/badge/📦_Все-релизы-0969da?style=for-the-badge)](../../releases)
-[![Сайт](https://img.shields.io/badge/🌐-goldgram.su-d4a017?style=for-the-badge)](https://goldgram.su)
+[![Сайт](https://img.shields.io/badge/🌐-goldgram.pro-d4a017?style=for-the-badge)](https://goldgram.pro)
 
 ![Android](https://img.shields.io/badge/Android-8.1+-3DDC84?logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-15+_скоро-000000?logo=apple&logoColor=white)
@@ -31,6 +31,8 @@
 
 Никаких сложных настроек: защита включается сама при обычном входе. 🪄
 
+> 🌐 **Новый адрес — [goldgram.pro](https://goldgram.pro).** Старые ссылки goldgram.su открываются как раньше и ведут на новый адрес.
+
 ---
 
 ## 🚀 Возможности
@@ -41,6 +43,7 @@
 | 📢 **Каналы и лента** | посты, комментарии, опросы, сториз |
 | 📞 **Звонки** | аудио и видео — работают даже в свёрнутом приложении |
 | 🎵 **Музыка** | играет в фоне и на заблокированном экране, кнопки гарнитуры, эквалайзер |
+| 📥 **Музыка без сети** | дослушанное сохраняется само, «Скачать всё» — для плейлистов; слушай без интернета |
 | 🎬 **Кинопати** | совместный просмотр с друзьями во весь экран |
 | 🗺 **Штурман** | карты, маршруты, пробки и живая геопозиция друзьям |
 | 🏃 **Пробежки** | трек и темп пишутся даже с выключенным экраном |
@@ -61,7 +64,7 @@
 | ✅ **Проверенные обновления** | каждое обновление сверяется по цифровой подписи и контрольной сумме |
 | 🚫 **Без лишнего** | разрешения (камера, микрофон, геопозиция) — только когда нужны функции |
 
-> ⚠️ Скачивай GoldGram **только отсюда или с [goldgram.su](https://goldgram.su)**.
+> ⚠️ Скачивай GoldGram **только отсюда или с [goldgram.pro](https://goldgram.pro)**.
 > Сборки с других сайтов могут быть изменены и красть переписку и пароли.
 
 ---
@@ -76,7 +79,7 @@
 
 ### 🍏 iPhone
 
-Скоро в App Store. Следи за новостями на [goldgram.su](https://goldgram.su). ⏳
+Скоро в App Store. Следи за новостями на [goldgram.pro](https://goldgram.pro). ⏳
 
 ---
 
@@ -84,7 +87,7 @@
 
 Ставить новую версию вручную не нужно: приложение само находит обновление и предлагает установить его в один тап. ⚡️
 
-- 📡 Проверяет **сайт и GitHub одновременно** — обновление придёт, даже если один из них недоступен.
+- 📡 Обновления приходят **напрямую из релизов GitHub** — сайт для этого не нужен: сменился адрес или сайт недоступен, а обновления всё равно приходят.
 - 🔏 Перед установкой сверяет **подпись и контрольную сумму** — подменённый файл не встанет.
 - 📦 Все версии и списки изменений — во вкладке **[Releases](../../releases)**.
 
@@ -103,7 +106,7 @@
 
 GoldGram — **бесплатное приложение с закрытым исходным кодом**.
 Пользоваться можно свободно; декомпилировать, изменять, перепаковывать и распространять изменённые сборки запрещено.
-Подробно — в **[LICENSE](LICENSE)** и в [Пользовательском соглашении](https://goldgram.su/legal/terms).
+Подробно — в **[LICENSE](LICENSE)** и в [Пользовательском соглашении](https://goldgram.pro/legal/terms).
 
 Нашёл уязвимость? Напиши в поддержку в приложении — спасибо! 🙏
 
@@ -113,7 +116,7 @@ GoldGram — **бесплатное приложение с закрытым и�
 
 **Сделано с 💛 командой GoldGram**
 
-[🌐 goldgram.su](https://goldgram.su) · [📦 Релизы](../../releases) · [📜 Документы](https://goldgram.su/legal)
+[🌐 goldgram.pro](https://goldgram.pro) · [📦 Релизы](../../releases) · [📜 Документы](https://goldgram.pro/legal)
 
 </div>
 
@@ -127,11 +130,11 @@ GoldGram — **бесплатное приложение с закрытым и�
 
 ### A messenger and social network in your pocket — fast, beautiful, encrypted
 
-**💬 Chats · 📢 Channels · 🎵 Music · 🎬 Watch Party · 🗺 Navigator · 🎁 Gifts · 🃏 Games**
+**💬 Chats · 📢 Channels · 🎵 Music · 🎬 Watch Party · 🗺 Shturman · 🎁 Gifts · 🃏 Games**
 
 [![Download APK](https://img.shields.io/badge/⬇️_Download-Android_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white)](../../releases/latest/download/GoldGram.apk)
 [![All releases](https://img.shields.io/badge/📦_All-releases-0969da?style=for-the-badge)](../../releases)
-[![Website](https://img.shields.io/badge/🌐-goldgram.su-d4a017?style=for-the-badge)](https://goldgram.su)
+[![Website](https://img.shields.io/badge/🌐-goldgram.pro-d4a017?style=for-the-badge)](https://goldgram.pro)
 
 </div>
 
@@ -144,6 +147,8 @@ Chat, run channels, listen to music with the screen off, watch movies with frien
 
 No complicated setup: protection turns on by itself when you sign in. 🪄
 
+> 🌐 **New address — [goldgram.pro](https://goldgram.pro).** Old goldgram.su links still work and lead to the new address.
+
 ---
 
 ## 🚀 Features
@@ -154,8 +159,9 @@ No complicated setup: protection turns on by itself when you sign in. 🪄
 | 📢 **Channels & feed** | posts, comments, polls, stories |
 | 📞 **Calls** | audio and video — keep working when the app is minimized |
 | 🎵 **Music** | plays in the background and on the lock screen, headset buttons, equalizer |
+| 📥 **Offline music** | tracks you finish are saved automatically, "Download all" for playlists — listen without internet |
 | 🎬 **Watch Party** | watch together with friends in full screen |
-| 🗺 **Navigator** | maps, routes, traffic and live location sharing |
+| 🗺 **Shturman** | maps, routes, traffic and live location sharing |
 | 🏃 **Runs** | track and pace are recorded even with the screen off |
 | 🌍 **Translation** | messages in 36 languages, interface in 14 |
 | 🎁 **Gifts** | give, collect and trade |
@@ -174,7 +180,7 @@ No complicated setup: protection turns on by itself when you sign in. 🪄
 | ✅ **Verified updates** | every update is checked by digital signature and checksum |
 | 🚫 **Nothing extra** | permissions (camera, microphone, location) are requested only when a feature needs them |
 
-> ⚠️ Download GoldGram **only here or from [goldgram.su](https://goldgram.su)**.
+> ⚠️ Download GoldGram **only here or from [goldgram.pro](https://goldgram.pro)**.
 > Builds from other sites may be tampered with to steal messages and passwords.
 
 ---
@@ -189,7 +195,7 @@ No complicated setup: protection turns on by itself when you sign in. 🪄
 
 ### 🍏 iPhone
 
-Coming soon to the App Store. Stay tuned at [goldgram.su](https://goldgram.su). ⏳
+Coming soon to the App Store. Stay tuned at [goldgram.pro](https://goldgram.pro). ⏳
 
 ---
 
@@ -197,7 +203,7 @@ Coming soon to the App Store. Stay tuned at [goldgram.su](https://goldgram.su). 
 
 No need to install new versions by hand: the app finds updates itself and installs them in one tap. ⚡️
 
-- 📡 Checks **the website and GitHub at the same time** — the update arrives even if one of them is unreachable.
+- 📡 Updates come **straight from GitHub releases** — the website isn't needed for that: even if its address changes or it's down, updates keep coming.
 - 🔏 Verifies **signature and checksum** before installing — a tampered file won't install.
 - 📦 All versions and changelogs are in **[Releases](../../releases)**.
 
@@ -216,7 +222,7 @@ No need to install new versions by hand: the app finds updates itself and instal
 
 GoldGram is a **free, closed-source app**.
 You are free to use it; decompiling, modifying, repackaging and distributing modified builds is prohibited.
-Details are in the **[LICENSE](LICENSE)** and the [Terms of Service](https://goldgram.su/legal/terms).
+Details are in the **[LICENSE](LICENSE)** and the [Terms of Service](https://goldgram.pro/legal/terms).
 
 Found a vulnerability? Let us know via support in the app — thank you! 🙏
 
@@ -226,6 +232,6 @@ Found a vulnerability? Let us know via support in the app — thank you! 🙏
 
 **Made with 💛 by the GoldGram team**
 
-[🌐 goldgram.su](https://goldgram.su) · [📦 Releases](../../releases) · [📜 Legal](https://goldgram.su/legal) · [⬆️ Top](#ru)
+[🌐 goldgram.pro](https://goldgram.pro) · [📦 Releases](../../releases) · [📜 Legal](https://goldgram.pro/legal) · [⬆️ Top](#ru)
 
 </div>
