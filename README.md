@@ -45,7 +45,7 @@
 | 📞 **Защищённые звонки** | каждый кадр голоса и видео шифруется на устройстве. **4 эмодзи на экране** у тебя и собеседника должны совпасть — так видно, что в разговор никто не вклинился |
 | 🗄 **Зашифрованное хранение** | всё остальное — аватары, каналы, заметки, календарь, файлы — хранится на сервере в зашифрованном виде |
 | 📍 **Геопозиция под замком** | живое местоположение шифруется на устройстве и не записывается в базу |
-| 📵 **Без номера телефона** | регистрация по логину и паролю — номер и почта необязательны |
+| 📵 **Без номера телефона** | номер не обязателен — для регистрации хватит почты |
 | 🔑 **Двухфакторная защита** | вход с кодом из приложения-аутентификатора, код-пароль и вход по отпечатку или лицу |
 | 🚫 **Без рекламы по переписке** | данные не продаются, не передаются рекламным сетям и не используются для рекламы |
 | ✅ **Проверенные обновления** | каждое обновление сверяется по подписи и контрольной сумме — подменённый файл не встанет |
@@ -119,7 +119,7 @@
 Да. Личные чаты, «Избранное», закрытые группы и звонки защищены сквозным шифрованием: сообщения шифруются на устройстве до отправки, а ключ защищён паролем от аккаунта. Остальные данные хранятся на сервере зашифрованными.
 
 **Нужен ли номер телефона?**
-Нет. Достаточно логина и пароля, номер и почту можно не указывать.
+Нет. Для регистрации нужна почта **или** номер телефона — на выбор. Без номера можно обойтись полностью.
 
 **GoldGram бесплатный?**
 Да, полностью. Есть необязательный Premium с дополнительными функциями, например расшифровкой голосовых и переводом сообщений.
@@ -205,7 +205,7 @@ Privacy isn't a checkbox here — it's how the app is built. Everything works on
 | 📞 **Secure calls** | every frame of voice and video is encrypted on the device. **4 emoji on screen** must match for you and the other person — proof that nobody is listening in |
 | 🗄 **Encrypted storage** | everything else — avatars, channels, notes, calendar, files — is stored encrypted on the server |
 | 📍 **Location under lock** | live location is encrypted on your device and never written to the database |
-| 📵 **No phone number** | sign up with a username and password — phone and email are optional |
+| 📵 **No phone number** | a phone number isn't required — an email is enough to sign up |
 | 🔑 **Two-factor protection** | sign-in with an authenticator code, passcode and fingerprint or face unlock |
 | 🚫 **No ads from your messages** | data is never sold, never shared with ad networks and never used for advertising |
 | ✅ **Verified updates** | every update is checked by signature and checksum — a tampered file won't install |
@@ -279,7 +279,7 @@ No need to install new versions by hand: the app finds updates itself and instal
 Yes. Direct messages, Saved Messages, private groups and calls are end-to-end encrypted: messages are encrypted on the device before sending, and the key is protected by your account password. Everything else is stored encrypted on the server.
 
 **Do I need a phone number?**
-No. A username and password are enough; phone and email are optional.
+No. Sign-up needs an email **or** a phone number — your choice. You can skip the phone number entirely.
 
 **Is GoldGram free?**
 Yes, completely. An optional Premium adds extras such as voice message transcription and message translation.
