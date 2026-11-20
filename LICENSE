@@ -20,11 +20,10 @@ Copyright (c) 2026 TorraNox. Все права защищены. All rights rese
      к которым Приложение даёт доступ.
 1.4. «Пользователь», «вы» — лицо, которое скачивает, устанавливает или
      использует Приложение.
-1.5. «Официальные источники» — сайт https://goldgram.pro (ранее —
-     https://goldgram.su; при смене адреса новый указывается в релизах этого
-     репозитория), релизы этого репозитория, Apple App Store и Google Play
-     (страницы Приложения от имени Разработчика), а также другие магазины,
-     указанные на сайте.
+1.5. «Официальные источники» — сайт https://goldgram.pro (при смене адреса
+     новый указывается в релизах этого репозитория), релизы этого
+     репозитория, Apple App Store и Google Play (страницы Приложения от имени
+     Разработчика), а также другие магазины, указанные на сайте.
 1.6. «Магазин» — Apple App Store или Google Play, через который получено
      Приложение; «Apple» — Apple Inc. и её дочерние компании; «Google» — Google
      LLC и её аффилированные лица.
@@ -274,11 +273,11 @@ Copyright (c) 2026 TorraNox. Все права защищены. All rights rese
 1.3. "Service" means the GoldGram messenger, social network and related
      features accessed through the App.
 1.4. "User", "you" means any person who downloads, installs or uses the App.
-1.5. "Official Sources" means the website https://goldgram.pro (formerly
-     https://goldgram.su; if the address changes, the new one is announced in
-     the releases of this repository), the releases of this repository, the
-     Apple App Store and Google Play (the App's pages published by the
-     Developer), and other stores listed on the website.
+1.5. "Official Sources" means the website https://goldgram.pro (if the
+     address changes, the new one is announced in the releases of this
+     repository), the releases of this repository, the Apple App Store and
+     Google Play (the App's pages published by the Developer), and other stores
+     listed on the website.
 1.6. "Store" means the Apple App Store or Google Play through which the App was
      obtained; "Apple" means Apple Inc. and its subsidiaries; "Google" means
      Google LLC and its affiliates.

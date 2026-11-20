@@ -31,7 +31,7 @@
 
 Никаких сложных настроек: защита включается сама при обычном входе. 🪄
 
-> 🌐 **Новый адрес — [goldgram.pro](https://goldgram.pro).** Старые ссылки goldgram.su открываются как раньше и ведут на новый адрес.
+> 💎 **GoldGram теперь на [goldgram.pro](https://goldgram.pro)** — короткий премиальный адрес, который легко запомнить и не стыдно отправить другу. ✨
 
 ---
 
@@ -147,7 +147,7 @@ Chat, run channels, listen to music with the screen off, watch movies with frien
 
 No complicated setup: protection turns on by itself when you sign in. 🪄
 
-> 🌐 **New address — [goldgram.pro](https://goldgram.pro).** Old goldgram.su links still work and lead to the new address.
+> 💎 **GoldGram now lives at [goldgram.pro](https://goldgram.pro)** — a short, premium address that's easy to remember and proud to share. ✨
 
 ---
 
