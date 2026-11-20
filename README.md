@@ -64,7 +64,7 @@
 | 🎵 **Музыка** | играет в фоне и на заблокированном экране, кнопки гарнитуры, эквалайзер |
 | 📥 **Музыка без сети** | дослушанное сохраняется само, «Скачать всё» — для плейлистов |
 | 🎬 **Кинопати** | совместный просмотр с друзьями во весь экран |
-| 🗺 **Штурман** | карты, маршруты, пробки и живая геопозиция друзьям |
+| 🧭 **Штурман** | навигатор: маршруты, пробки и живая геопозиция друзьям |
 | 🏃 **Пробежки** | трек и темп пишутся даже с выключенным экраном |
 | 🌍 **Перевод** | сообщения на 36 языков, интерфейс на 14 |
 | 🎁 **Подарки** | дари, собирай и обменивайся |
@@ -81,8 +81,8 @@
 | Сквозное шифрование личных чатов по умолчанию | ✅ | только «секретные чаты» | ✅ | ✅ |
 | Шифрованные звонки | ✅ | ✅ | ✅ | ✅ |
 | Каналы и лента | ✅ | ✅ | ✅ | ❌ |
-| Музыка, совместное кино, игры и карты внутри | ✅ | ❌ | ❌ | ❌ |
-| Бесплатно, без рекламы в чатах | ✅ | ✅ | ✅ | ✅ |
+| Музыка, совместное кино, игры и навигатор внутри | ✅ | ❌ | ❌ | ❌ |
+| Бесплатно и без рекламы | ✅ | ❌ реклама в каналах | ❌ реклама в «Обновлениях» | ✅ |
 
 ---
 
@@ -125,7 +125,7 @@
 Да, полностью. Есть необязательный Premium с дополнительными функциями, например расшифровкой голосовых и переводом сообщений.
 
 **Чем GoldGram отличается от Telegram?**
-Сквозное шифрование включено в личных чатах сразу, а не только в «секретных», номер телефона не нужен, а музыка, совместный просмотр кино, игры и карты встроены прямо в мессенджер.
+Сквозное шифрование включено в личных чатах сразу, а не только в «секретных», номер телефона не нужен, а музыка, совместный просмотр кино, игры и навигатор встроены прямо в мессенджер.
 
 **Продаёт ли GoldGram мои данные?**
 Нет. Данные не продаются, не передаются рекламным сетям и не используются для рекламы. Подробно — в [Политике конфиденциальности](https://goldgram.pro/legal/privacy).
@@ -224,7 +224,7 @@ How protection works and when data may be disclosed under the law is explained o
 | 🎵 **Music** | plays in the background and on the lock screen, headset buttons, equalizer |
 | 📥 **Offline music** | tracks you finish are saved automatically, "Download all" for playlists |
 | 🎬 **Watch Party** | watch together with friends in full screen |
-| 🗺 **Shturman** | maps, routes, traffic and live location sharing |
+| 🧭 **Shturman** | navigator: routes, traffic and live location sharing |
 | 🏃 **Runs** | track and pace are recorded even with the screen off |
 | 🌍 **Translation** | messages in 36 languages, interface in 14 |
 | 🎁 **Gifts** | give, collect and trade |
@@ -241,8 +241,8 @@ How protection works and when data may be disclosed under the law is explained o
 | End-to-end encrypted private chats by default | ✅ | secret chats only | ✅ | ✅ |
 | Encrypted calls | ✅ | ✅ | ✅ | ✅ |
 | Channels & feed | ✅ | ✅ | ✅ | ❌ |
-| Built-in music, watch parties, games and maps | ✅ | ❌ | ❌ | ❌ |
-| Free, no ads in chats | ✅ | ✅ | ✅ | ✅ |
+| Built-in music, watch parties, games and navigator | ✅ | ❌ | ❌ | ❌ |
+| Free and ad-free | ✅ | ❌ ads in channels | ❌ ads in Updates | ✅ |
 
 ---
 
@@ -285,7 +285,7 @@ No. A username and password are enough; phone and email are optional.
 Yes, completely. An optional Premium adds extras such as voice message transcription and message translation.
 
 **How is GoldGram different from Telegram?**
-End-to-end encryption is on in private chats from the start, not just in "secret chats", no phone number is needed, and music, watch parties, games and maps are built right into the messenger.
+End-to-end encryption is on in private chats from the start, not just in "secret chats", no phone number is needed, and music, watch parties, games and a navigator are built right into the messenger.
 
 **Does GoldGram sell my data?**
 No. Data is never sold, never shared with ad networks and never used for advertising. Details are in the [Privacy Policy](https://goldgram.pro/legal/privacy).
